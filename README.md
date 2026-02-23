@@ -46,7 +46,9 @@ Here are my main projects, grouped for convenience:
   - 🎨 [ArtMyWay](https://github.com/carmengiaccotto/project_human_computer_interaction_24-25) - HCI app for art discovery (3rd Best, [Featured on HINTLab](https://hintlab.polimi.it/hci-course-projects-2024-25/))
     - 🌐 [Live Demo](https://art-my-way.com)
   - 🔬 SpectralWeb - Python tool for spectral graph analysis (30L/30)
-  - ⚡ Logic Networks - VHDL hardware component on Artix-7 FPGA (30L/30)
+  - 🍰 [Algorithms & Data Structures](https://github.com/mattiacolombomc/algorithms-data-structures-c) - Discrete-time simulation in C with custom
+  hash maps & priority queues (24/30)
+  - ⚡ [Logic Networks](https://github.com/mattiacolombomc/logic-networks-fpga) - VHDL hardware component on Artix-7 FPGA (30L/30)
 
 - 🤖 **Automation & Web Projects**
   - Built multiple bot systems for automated monitoring and data collection
