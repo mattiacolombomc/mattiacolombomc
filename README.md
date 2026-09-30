@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mattia Colombo
 
-### Computer Engineering Student | Software Engineer | Digital Innovator
+### M.Sc. Computer Science & Engineering Student | B.Sc. Computer Engineering | Software Engineer
 
 #### *Politecnico di Milano*
 
@@ -12,7 +12,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B8A45D&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Flutter+%26+SwiftUI+Development;Security+Analysis+%26+Reversing;Distributed+Systems;User-Centered+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B8A45D&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Flutter+%26+SwiftUI+Development;macOS+Tooling+%26+Drivers;Security+Analysis+%26+Reversing;Distributed+Systems;User-Centered+Design)](https://git.io/typing-svg)
 
 <br>
 
@@ -27,9 +27,9 @@
 
 ## 👨‍💻 About
 
-Computer Engineering student at Politecnico di Milano specializing in Software Engineering and distributed systems.
+B.Sc. in Computer Engineering from Politecnico di Milano (September 2026), now pursuing an M.Sc. in Computer Science and Engineering at the same university, with a focus on software engineering, distributed & networked systems, compilers, performance evaluation and computer security.
 
-Passionate about building functional, user-centric solutions with clean architecture. From mobile development to API reversing, I focus on technology that empowers users.
+Passionate about building functional, user-centric solutions with clean architecture. From mobile development to macOS tooling, printer drivers and API reversing, I focus on technology that empowers users — and I publish most of it as open source.
 
 ---
 
@@ -50,6 +50,14 @@ Here are my main projects, grouped for convenience:
   hash maps & priority queues (24/30)
   - ⚡ [Logic Networks](https://github.com/mattiacolombomc/logic-networks-fpga) - VHDL hardware component on Artix-7 FPGA (30L/30)
 
+- 🧰 **Open-Source Tooling**
+  - 🖨️ [VEVOR CUPS Driver](https://github.com/mattiacolombomc/vevor-cups-driver) - Apple Silicon CUPS driver (C, TSPL) for VEVOR Y486/Y486BT thermal label printers, where no vendor driver exists
+  - 🚀 **Raycast extensions** (published on the [Raycast Store](https://www.raycast.com/mattiacolombomc)): [Handy](https://github.com/mattiacolombomc/raycast-handy) (offline speech-to-text), [PDF Expert](https://github.com/mattiacolombomc/raycast-pdf-expert), [Spokenly](https://github.com/mattiacolombomc/raycast-spokenly), [Wispr Flow](https://github.com/mattiacolombomc/wispr-flow-raycast), [Time Machine Snapshot Manager](https://github.com/mattiacolombomc/timemachine-snapshot-manager) — plus contributions to Home Assistant, tmux-sessioner, Quick AirDrop, Flow Timer and Proxyman
+  - 📱 [Beep](https://github.com/mattiacolombomc/beep-ios) - Native SwiftUI client for WeBeep (PoliMi Moodle): offline sync, search, Liquid Glass UI for iOS/iPadOS 26
+  - 🚆 [Trenitalia Tidbyt](https://github.com/mattiacolombomc/trenitalia-tidbyt) & [ATM M2 Tronbyt](https://github.com/mattiacolombomc/tronbyt-atm-m2) - Real-time train and Milan Metro departures on a Tidbyt display (Starlark, GTFS)
+  - 🏠 [BTicino Intercom](https://github.com/mattiacolombomc/bticino_intercom) - Contributor to the Home Assistant integration for BTicino video intercoms (WebSocket stability, topology handling, reload fixes)
+  - ⌨️ [Logitech MX Layout Switcher](https://github.com/mattiacolombomc/logiMXMiniLayoutSwitcher) - Swift/IOKit daemon that switches the macOS keyboard layout when a Logitech receiver connects
+
 - 🤖 **Automation & Web Projects**
   - Built multiple bot systems for automated monitoring and data collection
   - API reverse engineering and integration projects
@@ -68,12 +76,18 @@ Here are my main projects, grouped for convenience:
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Raycast](https://img.shields.io/badge/Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## 🏆 Achievements
 
+- 🎓 **B.Sc. in Computer Engineering** - Politecnico di Milano, September 2026
+- 🚀 **5 extensions published on the Raycast Store** + contributions to 5 existing ones
 - 🎖️ **Google Developer Student Club AI Hackathon 2024** - Semifinalist among 50+ teams
 - 🎖️ **Best Group Award** - Software Engineering Course
 - 🎖️ **3rd Best Project** - Human-Computer Interaction Course
